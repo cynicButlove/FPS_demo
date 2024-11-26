@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meryel.CodeAssist.Editor", "Meryel.CodeAssist.Editor.csproj", "{a9f5f47e-998a-eca7-f17b-b5fa6a0eb8e2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{a9c8f3a2-273b-1ec9-e75d-fbbee275a678}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{f0c40ff5-54b8-bab1-0077-2e6491ad01dd}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{a9f5f47e-998a-eca7-f17b-b5fa6a0eb8e2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{a9f5f47e-998a-eca7-f17b-b5fa6a0eb8e2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{a9c8f3a2-273b-1ec9-e75d-fbbee275a678}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{a9c8f3a2-273b-1ec9-e75d-fbbee275a678}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{f0c40ff5-54b8-bab1-0077-2e6491ad01dd}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{f0c40ff5-54b8-bab1-0077-2e6491ad01dd}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
